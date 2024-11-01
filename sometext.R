@@ -1,0 +1,1 @@
+idezet <- "Hogy repuel a toeketlen fecske"
